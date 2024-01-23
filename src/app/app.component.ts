@@ -10,5 +10,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Midterm66 Amazon App';
+
+  constructor(){
+    
+  }
+
 }
