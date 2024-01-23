@@ -1,0 +1,30 @@
+[
+  {
+    "email": "manager@gmail.com",
+    "password": "1234",
+    "display_name": "โทนนี่ สตาร์ก",
+    "role": "admin",
+    "position": "ผู้จัดการ"
+  },
+  {
+    "email": "sale@gmail.com",
+    "password": "1234",
+    "display_name": "สตีฟ โรเจอร์",
+    "role": "user",
+    "position": "พนักงานขาย"
+  },
+  {
+    "email": "test@gmail.com",
+    "password": "1234",
+    "display_name": "นักเทสตัวตึง",
+    "role": "user",
+    "position": "พนักงานขาย"
+  },
+  {
+    "email": "joe@gmail.com",
+    "password": "1234",
+    "display_name": "โจ",
+    "role": "user",
+    "position": "พนักงานขาย"
+  }
+]
